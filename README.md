@@ -42,16 +42,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bexmer/bexmer/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/Bexnyr">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Bexnyr&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/424DkevE18QJazwlljiTD4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 ###
